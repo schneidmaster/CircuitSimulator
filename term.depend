@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1304002713 source:/home/zach/Desktop/School/C++/term/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+	"Output.h"
+	"Gate.h"
+	"Wire.h"
+	"Event.h"
+	"Input.h"
+
+1303778092 source:/home/zach/Desktop/School/C++/term/Event.cpp
+	"Event.h"
+
+1303778413 /home/zach/Desktop/School/C++/term/Event.h
+	"Wire.h"
+
+1303778413 /home/zach/Desktop/School/C++/term/Wire.h
+	<vector>
+	<queue>
+
+1303831203 /home/zach/Desktop/School/C++/term/Gate.h
+	<queue>
+	"Wire.h"
+	"Event.h"
+
+1303832499 source:/home/zach/Desktop/School/C++/term/Gate.cpp
+	"Gate.h"
+
+1303777678 source:/home/zach/Desktop/School/C++/term/Wire.cpp
+	"Wire.h"
+	"Gate.h"
+
+1303778309 source:/home/zach/Desktop/School/C++/term/Output.cpp
+	"Output.h"
+
+1303778413 /home/zach/Desktop/School/C++/term/Output.h
+	<iostream>
+	"Wire.h"
+
+1303778488 source:/home/zach/Desktop/School/C++/term/Input.cpp
+	"Input.h"
+
+1303778413 /home/zach/Desktop/School/C++/term/Input.h
+	<iostream>
+	"Wire.h"
+

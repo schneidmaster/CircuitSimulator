@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Event.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Event.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Gate.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1393" topLine="36" />
+	</File>
+	<File name="Gate.h" open="1" top="0" tabpos="2">
+		<Cursor position="739" topLine="17" />
+	</File>
+	<File name="Input.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Input.h" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Output.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Output.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Wire.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Wire.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
