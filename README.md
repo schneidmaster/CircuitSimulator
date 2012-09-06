@@ -1,3 +1,6 @@
+CircuitSimulator
+==============
+
  * CircuitSimulator
  * version: 1.0
  * @requires C++
