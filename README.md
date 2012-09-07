@@ -32,4 +32,4 @@ Set up circuit using a circuit file (see circuits/crct.txt for example).  First 
 
 Then, set up a circuit vector file (see circuits/crct_vector.txt for example; the vector must have the same name as the circuit with _vector appended to the end).  The first line is, again, the name.  The following lines are arbitrary: what input you want to control, then what time (how many clock cycles into simulation) you want the change to take place, then what change you want (1 for high, 0 for low).
 
-Finally, compile with the C++ compiler of your choice, run, and enter your circuit base name when prompted (for the example above, "circuits/crct" would work).
+Finally, compile with the C++ compiler of your choice (with g++, "g++ main.cpp Event.cpp Input.cpp Wire.cpp Gate.cpp Output.cpp"), run ("./a.out"), and enter your circuit base name and number of cycles to simulate when prompted (for the example above, "circuits/crct" would work).
